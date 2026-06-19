@@ -7,7 +7,7 @@ The repository contains two compact modelling case studies:
 1. **Wine quality prediction** — multiple linear regression using physicochemical wine measurements.
 2. **Hip fracture risk prediction** — logistic regression using bone-mineral-density and clinical variables.
 
-A useful model is not just the one with the highest headline accuracy. This project shows the full modelling workflow: explore the data, choose an appropriate model, simplify it, check assumptions, evaluate performance and explain the limitations.
+This project demonstrates the full modelling workflow: explore the data, choose an appropriate model, simplify it, check assumptions, evaluate performance and explain the limitations.
 
 ## Skills demonstrated
 
