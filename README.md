@@ -27,31 +27,31 @@ A useful model is not just the one with the highest headline accuracy. This proj
 
 ### Wine quality distribution
 
-![Wine quality distribution](figures/wine_quality_distribution.png)
+![Wine quality distribution](figures/hist.png)
 
 The distribution plot gives an initial view of the outcome variable before linear regression, including the concentration of wine quality scores around the middle of the scale.
 
 ### Wine variable correlation matrix
 
-![Wine variable correlation matrix](figures/wine_correlation_matrix.png)
+![Wine variable correlation matrix](figures/eda.png)
 
 The correlation matrix was used to identify relationships between physicochemical predictors and to check for possible multicollinearity before modelling.
 
 ### Regression diagnostic plots
 
-![Wine regression diagnostic plots](figures/wine_regression_diagnostics.png)
+![Wine regression diagnostic plots](figures/validity.png)
 
 The diagnostic plots were used to assess linearity, residual behaviour, approximate normality and influential observations in the final wine-quality regression model.
 
 ### Bone mineral density by fracture status
 
-![Bone mineral density by fracture status](figures/bmd_density_by_fracture_status.png)
+![Bone mineral density by fracture status](figures/density.png)
 
 The density plot shows the separation between fracture and non-fracture patients by bone mineral density, supporting the choice to include BMD in the logistic regression model.
 
 ### Fracture prediction confusion matrix
 
-![Fracture confusion matrix and metrics](figures/fracture_confusion_matrix_and_metrics.png)
+![Fracture confusion matrix and metrics](figures/confusion_matrix.png)
 
 The logistic regression model was evaluated with a confusion matrix and clinical classification metrics, including sensitivity and specificity rather than accuracy alone.
 
