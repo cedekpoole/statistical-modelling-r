@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Data files
+data/*.csv
+data/*.npz
+data/*.xlsx
+data/*.parquet
+
+# OS/editor
+.DS_Store
+.vscode/
